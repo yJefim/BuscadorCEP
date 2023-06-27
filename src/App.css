@@ -17,7 +17,7 @@
 .container h1{
   position: absolute;
   top: 30%;
-  color: white;
+  color: red;
   font-size: 3rem;
   animation: scaleTitle 2s;
 }
